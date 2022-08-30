@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Aula Primeiro A</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <body>
+    <h1>Benhossi</h1>
+    <h2>Turma: Primeiro A</h2>
+    <p>Adicionando online</p>
+    <h2>Baixar código do github</h2>
+    <p>Logar na conta</p>
+    <p>Clicar no repositório primeiroa_2t</p>
+    <p>Clicar em code</p>
+    <p>Clicar em download</p>
+    <p>Entrar no download no computador</p>
+    <p>Clicar em extrair aqui</p>
+    <p>Abrir o atom clicar em arquivo e abrir pastas</p>
+
+
+  <h2>Subir código no github</h2>
+  </body>
+</html>
